@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloToast5</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_count">Count</string>
+    <string name="toast_message">Hello Toast !</string>
+    <string name="switch_page">switch_page</string>
+    <string name="text_header">Halaman ke-2</string>
+    <string name="nama">Halaman ke-2</string>
+    <string name="button_label_browser">browser</string>
+    <string name="button_label_count_down">kurang</string>
+    <string name="button_label_count_up">tambah</string>
+</resources>
